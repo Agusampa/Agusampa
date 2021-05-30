@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Agustin
 #### I am a programming student eager to learn and contribute a lot in this world!
 
-Skills: C / JAVA
+Skills: C / JAVA / GIT
 
 - 🔭 I’m currently working on https://github.com/Agusampa/Administracion-de-Hotel 
 
